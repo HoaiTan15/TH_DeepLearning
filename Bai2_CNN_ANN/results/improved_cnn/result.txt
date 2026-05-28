@@ -1,0 +1,2 @@
+Improved CNN Test Loss: 0.5836
+Improved CNN Test Accuracy: 0.8024

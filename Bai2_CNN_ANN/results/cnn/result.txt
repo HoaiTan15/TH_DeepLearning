@@ -1,0 +1,2 @@
+CNN Test Loss: 0.7373
+CNN Test Accuracy: 0.7492

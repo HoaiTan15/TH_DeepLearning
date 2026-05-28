@@ -1,0 +1,2 @@
+ANN Test Loss: 1.5827
+ANN Test Accuracy: 0.4463
