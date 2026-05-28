@@ -269,7 +269,7 @@ python src/train_fewshot.py
 ## 📞 Liên Hệ & Tác Giả
 
 - **Tác Giả**: Hoài Tân
-- **Email**: hoaitan15@example.com
+- **Email**: hoaitan15@gmail.com
 - **GitHub**: [HoaiTan15](https://github.com/HoaiTan15)
 - **Repository**: [TH_DeepLearning](https://github.com/HoaiTan15/TH_DeepLearning)
 
